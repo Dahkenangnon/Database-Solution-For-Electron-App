@@ -7,7 +7,7 @@
     - 
 
 ## Medium data 
-    - [IndexDb]()
+    - [IndexDb](https://javascript.info/indexeddb)
     - IndexDb wraper: 
         - [Pouch DB](pouchdb.com/)
         - [JsStore](jsstore.net/)
