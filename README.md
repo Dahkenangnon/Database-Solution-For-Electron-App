@@ -1,6 +1,6 @@
 # Database solution for Electron js App
 
-
+See this tutorial for useful thing you must known:  https://www.techiediaries.com/electron-data-persistence/
 ## User preference or similar
     - [Electron settings](https://github.com/nathanbuchar/electron-settings)
     - [Electron store](https://github.com/sindresorhus/electron-store)
